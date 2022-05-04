@@ -246,7 +246,7 @@ const Main = () => {
                                 whileHover={{ scale: 1.1 }}
                                 whileTap={{ scale: 0.9 }}
                             >
-                                Do you need something?
+                                Contact me
                             </motion.h3>
                         </Contact>
                     ) : (
@@ -267,7 +267,7 @@ const Main = () => {
                                 whileHover={{ scale: 1.1 }}
                                 whileTap={{ scale: 0.9 }}
                             >
-                                Do you need something?
+                                Contact me
                             </motion.h3>
                         </Contact>
                     )}
